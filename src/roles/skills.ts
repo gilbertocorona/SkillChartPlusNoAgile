@@ -121,72 +121,7 @@ export default [
                     "2": "You can plan and execute a product launch, including developing launch plans and coordinating with stakeholders. You are building your skills in optimizing launch processes.",
                     "3": "You can plan and execute successful product launches that meet business goals. You can optimize launch processes and effectively coordinate with cross-functional teams.",
                 },
-            },
-        ],
-    },
-    {
-        name: "Agile Methodologies",
-        color: "#F44DBB",
-        skills: [
-            {
-                name: "Scrum",
-                description:
-                    "Integrating practices into the Scrum agile process",
-                roles: [
-                    SOFTWARE_ENGINEER,
-                    DATA_ENGINEER,
-                    DATA_SCIENTIST,
-                    DATA_ANALYST,
-                    UX_DESIGNER,
-                    ENGINEERING_MANAGER,
-                ],
-                levels: {
-                    "1": "Scrum L1\n\nYou have a basic understanding of the Scrum framework and its ceremonies. You can participate in Scrum meetings and contribute to the backlog with guidance.\n\n",
-                    "2": "Scrum L2\n\nYou actively participate in Scrum ceremonies, providing valuable insights to the backlog and sprints. You can work effectively within a Scrum team and adapt processes to fit the Scrum framework.\n\n",
-                    "3": "Scrum L3\n\nYou are an expert in Scrum, capable of acting as a Product Owner or Scrum Master. You integrate practices seamlessly into the Scrum process and ensure that team needs are prioritized and met throughout the development cycle.\n\n",
-                },
-            },
-            {
-                name: "Kanban",
-                description:
-                    "Using Kanban to manage work and optimize workflows",
-                roles: [
-                    SOFTWARE_ENGINEER,
-                    DATA_ENGINEER,
-                    DATA_SCIENTIST,
-                    DATA_ANALYST,
-                    UX_DESIGNER,
-                    ENGINEERING_MANAGER,
-                ],
-                levels: {
-                    "1": "Kanban L1\n\nYou have a basic understanding of Kanban principles. You can visualize your work on a Kanban board and understand the basic flow of tasks.\n\n",
-                    "2": "Kanban L2\n\nYou can implement and manage a Kanban board effectively. You understand how to prioritize tasks, manage workflow, and identify bottlenecks in the process.\n\n",
-                    "3": "Kanban L3\n\nYou are an expert in Kanban, optimizing workflows and promoting continuous improvement. You use Kanban to manage complex projects and ensure efficient and smooth task completion.\n\n",
-                },
-            },
-            {
-                name: "Lean Development",
-                description:
-                    "Applying Lean principles to optimize software development processes",
-                roles: [SOFTWARE_ENGINEER, ENGINEERING_MANAGER],
-                levels: {
-                    "1": "Lean Development L1\n\nYou have a basic understanding of Lean principles and practices. You can participate in Lean activities such as identifying waste and implementing small improvements.\n\n",
-                    "2": "Lean Development L2\n\nYou actively apply Lean principles, focusing on eliminating waste and improving efficiency in the development process. You collaborate with cross-functional teams to implement Lean practices.\n\n",
-                    "3": "Lean Development L3\n\nYou are an expert in Lean development, leading the adoption of Lean principles across the organization. You drive continuous improvement initiatives and ensure that Lean practices are integrated into the development lifecycle.\n\n",
-                },
-            },
-            {
-                name: "Lean UX",
-                description:
-                    "Applying Lean UX principles to iterate quickly and efficiently",
-                roles: [UX_DESIGNER],
-                levels: {
-                    "1": "Lean UX L1\n\nYou have a basic understanding of Lean UX principles and practices. You can participate in Lean UX activities such as rapid prototyping and user testing.\n\n",
-                    "2": "Lean UX L2\n\nYou actively apply Lean UX principles, iterating quickly based on user feedback and data. You collaborate with cross-functional teams to integrate Lean UX into the product development process.\n\n",
-                    "3": "Lean UX L3\n\nYou are an expert in Lean UX, leading the adoption of its principles across the organization. You drive rapid iteration cycles and ensure that user feedback is continuously incorporated into the product.\n\n",
-                },
-            },
-        ],
+          
     },
     {
         name: "Data/Analytics",
